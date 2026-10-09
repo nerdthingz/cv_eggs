@@ -18,4 +18,4 @@ pip install opencv-python numpy pandas matplotlib joblib scipy transformers acce
 2. `python egg_algo.py`
 3. `python vid_detect.py`
 
-Tracked video: _add Google Drive link here_
+imp point-- all this was run on kaggle hardware
