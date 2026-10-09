@@ -43,4 +43,4 @@
 - No ground truth exists for the video, so it is judged visually.
 
 ## 5. AI tools disclosure
-An AI assistant (Claude) was used to discuss approaches and draft code. Every method above was run, checked and can be explained by the author.
+An AI assistant (Claude) was used to discuss approaches and draft code.
